@@ -13,7 +13,7 @@ const facebookLink = (
   </a>
 )
 const emailLink = (
-  <a href="mailto:john@doe.com" alt="email link">
+  <a href="mailto:srstores555@gmail.com" alt="email link">
     Email
   </a>
 )
@@ -50,7 +50,7 @@ const Footer = () => (
             </List>
           </Grid.Column>
           <Grid.Column width={7}>
-            <Header as="h4">Footer Header</Header>
+            <Header as="h4">Shop Online</Header>
             <p>
               Your One Stop Shop for your Fashion and Home Decor Needs
             </p>
